@@ -110,7 +110,7 @@ First setup and create a newmap instance:
 
 ```python
 geovis.SetMapDimensions(width=4000, height=2000)
-geovis.SetMapBackground(geovis.Color("blue")
+geovis.SetMapBackground(geovis.Color("blue"))
 newmap = geovis.NewMap()
 ```
 
